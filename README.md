@@ -1,10 +1,10 @@
 # cosmoport
 
-JavaRush online internship test task #2 
+JavaRush online internship test task
 
 ## Getting Started
 
-This is my implementation of JavaRush summer 2019 online internship test task #2.
+This is my implementation of JavaRush summer 2020 online internship test task.
 
 ### Technologies used:
 
